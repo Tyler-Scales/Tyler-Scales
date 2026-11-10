@@ -1,14 +1,22 @@
 # Tyler Wallace, Ph.D.
 
-**I build practical AI tools for healthcare, especially for rural hospitals and community health centers.**
+**I build data pipelines, research and AI tools for healthcare, especially for rural hospitals and community health centers.**
 
-I work where health systems meet software. I advise rural hospitals and FQHCs on responsible AI adoption, teach Health Informatics in the University of Georgia MHA program, and build the prototypes, calculators and simulations that turn a strategy into something people can use.
+I work where health systems meet software. I advise rural hospitals and FQHCs on responsible AI adoption, teach Health Informatics in the University of Georgia MHA program, and build the analyses, scanners and prototypes that turn public data into decisions hospital leaders can act on.
 
 📍 Athens, GA · 🌐 [tylerwallace.ai](https://tylerwallace.ai) · 💼 [LinkedIn](https://www.linkedin.com/in/tylerwallace/)
 
 ---
 
-### Featured projects
+### Research and analysis
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Hospital Hurricane Evacuation**](https://github.com/Tyler-Scales/hospital-hurricane-evacuation) | A national study of hospitals that sheltered in place during hurricanes and then had to evacuate. It covers 80,189 hospital–storm pairs (1990–2025) and an AI-assisted registry of 261 documented decisions, with a replication package that re-runs every reported number. *Working paper.* | Python · pandas · statsmodels · NOAA / CMS data |
+| [**Hospital Website Audit**](https://github.com/Tyler-Scales/hospital-website-audit) | A passive security scanner that finds injected spam, search-engine cloaking, malicious JavaScript and hijacked former domains on hospital websites. It has been run against all 123 hospitals in Iowa. | Python (standard library only) · DNS · Internet Archive |
+| [**Rural Hospital Outmigration Scan**](https://github.com/Tyler-Scales/rural-hospital-outmigration-scan) | Shows where rural patients leave the county for care and what keeping them would be worth to a critical access hospital, priced under real CAH cost-report rules. It produces a CEO briefing and a workbook that sources every figure. | Python · JavaScript · CMS claims and cost reports · Census |
+
+### Applications
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -19,10 +27,10 @@ I work where health systems meet software. I advise rural hospitals and FQHCs on
 
 ### What I work with
 
-**Languages and frameworks:** TypeScript, Python, React, Electron, Flask, Express, Astro
-**AI:** LLM application design, agentic workflows, Claude and OpenAI APIs, prompt and evaluation design
-**Data and infrastructure:** PostgreSQL, Drizzle, SQLAlchemy, Netlify, Vite
-**Healthcare:** Critical access hospitals, FQHCs, transfer-center operations, AI governance, health informatics
+**Languages and frameworks:** Python, TypeScript, JavaScript, React, Electron, Flask, Express, Astro
+**Data:** CMS claims, cost reports (HCRIS) and Provider of Services files, NOAA/NHC storm data, Census ACS, pandas, statsmodels, reproducible pipelines
+**AI:** LLM application design, agentic workflows, AI-assisted data collection, Claude and OpenAI APIs
+**Healthcare:** Critical access hospitals, FQHCs, CAH reimbursement, emergency preparedness, transfer-center operations, AI governance, health informatics
 
 ### Background
 
