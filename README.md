@@ -1,6 +1,6 @@
 # Tyler Wallace, Ph.D.
 
-**I build data pipelines, research and AI tools for healthcare, especially for rural hospitals and community health centers.**
+**I help rural hospitals and community health centers adopt AI responsibly, and I build the research and tools that support those decisions.**
 
 I work where health systems meet software. I advise rural hospitals and FQHCs on responsible AI adoption, teach Health Informatics in the University of Georgia MHA program, and build the analyses, scanners and prototypes that turn public data into decisions hospital leaders can act on.
 
