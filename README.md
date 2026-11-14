@@ -20,6 +20,7 @@ I work where health systems meet software. I advise rural hospitals and FQHCs on
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Measles Sitrep Agent**](https://github.com/Tyler-Scales/measles-sitrep) | A Claude agent that reads CDC's weekly NNDSS measles data and drafts a public-health situation report. The code computes every figure through tools, and a 10-case eval set with an LLM judge checks each draft for faithfulness. | Python · Claude API · CDC NNDSS · pytest |
 | [**Visual Agents**](https://github.com/Tyler-Scales/Visual-Agents) | A desktop app that shows live AI coding-agent sessions as animated pixel-art characters, using a custom canvas game engine and real-time transcript watching | Electron · React · TypeScript |
 | [**AI Clinical Simulator**](https://github.com/Tyler-Scales/Clinical_Tester) | A clinical-reasoning trainer: interview an AI patient, order workups and get feedback on your note | Python · Flask · OpenAI · PostgreSQL |
 | [**Transfer Center ROI Calculator**](https://github.com/Tyler-Scales/Transfer-Center-ROI) | A business-case tool that helps hospital executives estimate the ROI of a patient transfer center | React · TypeScript · Express · Drizzle |
