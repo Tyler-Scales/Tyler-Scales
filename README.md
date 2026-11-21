@@ -4,7 +4,7 @@
 
 I work where health systems meet software. I advise rural hospitals and FQHCs on responsible AI adoption, teach Health Informatics in the University of Georgia MHA program, and build the analyses, scanners and prototypes that turn public data into decisions hospital leaders can act on.
 
-📍 Athens, GA · 🌐 [tylerwallace.ai](https://tylerwallace.ai) · 💼 [LinkedIn](https://www.linkedin.com/in/tylerwallace/)
+📍 Athens, GA · 💼 [LinkedIn](https://www.linkedin.com/in/tylerwallace/)
 
 ---
 
